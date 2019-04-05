@@ -1,0 +1,17 @@
+.circle{
+    height: 500px;
+    width: 500px;
+    border-radius: 50%;
+    background-color: chartreuse;
+    transition: height 2s;
+}
+
+.circle:hover{
+    height: 700px;
+
+}
+
+/* .fas.fa-hand-lizard{
+    font-size: 250px;
+    color: blue;
+} */
